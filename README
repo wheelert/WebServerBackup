@@ -1,0 +1,1 @@
+Simple bash script to backup webserver components to cloud storage via RClone. See https://wheelerwire.com/linux-webserver-backup-using-rclone for instructions
